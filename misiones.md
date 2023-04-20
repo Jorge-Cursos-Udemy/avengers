@@ -1,4 +1,5 @@
 
 ## Misiones
 
-Investigar los planes de Dr Got
+* Investigar los planes de Dr Got
+* Capturar a Red Skull
